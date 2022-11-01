@@ -3,3 +3,7 @@
 ```
 mkdir <directory_name>
 ```
+## IP Address
+```
+hostname -I
+```
